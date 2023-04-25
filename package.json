@@ -1,0 +1,19 @@
+{
+  "name": "alculate-md5-of-file-using-npm-modules",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ilyas161/calculate-md5-of-file-using-npm-modules.git"
+  },
+  "author": "ilyas",
+  "license": "ISC",
+  "dependencies": {
+    "md5": "^2.3.0",
+    "md5-file": "^5.0.0"
+  }
+}
